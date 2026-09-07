@@ -21,10 +21,7 @@
 - 🎓 B.Tech Student
 - 💻 Full Stack Developer
 - 🤖 Exploring AI, Machine Learning & LLMs
-- 🧠 Practicing Data Structures & Algorithms in C++
-- 🔨 Building projects that combine software engineering with AI
-- 🌱 Currently learning more about AI Agents, LLMs & modern AI systems
-- ⚡ I enjoy turning ideas into working products
+- 🧠 Practicing Data Structures & Algorithms
 
 ---
 
@@ -84,20 +81,6 @@
 
 </p>
 
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-  />
-
-</p>
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
@@ -115,42 +98,22 @@
 
 <p align="center">
 
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/get-gud/">
     <img
       src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"
     />
   </a>
 
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+  <a href="https://codeforces.com/profile/get-gud">
     <img
       src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces"
     />
   </a>
 
+  <a href="https://www.codechef.com/users/get_gud">
+    <img
+      src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"
+    />
+  </a>
+
 </p>
-
----
-
-# 🧠 What I'm Currently Learning
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  🤖 Artificial Intelligence                  │
-│     ├── LLMs                                 │
-│     ├── AI Agents                            │
-│     ├── RAG                                  │
-│     └── AI Applications                      │
-│                                              │
-│  🌐 Full Stack Development                   │
-│     ├── React                                │
-│     ├── Node.js                              │
-│     ├── APIs                                 │
-│     └── MongoDB                              │
-│                                              │
-│  🧠 Computer Science                         │
-│     ├── Data Structures & Algorithms         │
-│     ├── Operating Systems                    │
-│     └── DBMS                                 │
-│                                              │
-└──────────────────────────────────────────────┘
