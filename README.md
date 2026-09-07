@@ -70,12 +70,12 @@
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=get-gud05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="./profile/stats.svg"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=get-gud05&layout=donut&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     height="180"
   />
 
