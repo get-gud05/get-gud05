@@ -9,8 +9,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <a href="https://github.com/get-gud05">
+    <img src="https://komarev.com/ghpvc/?username=get-gud05&label=Profile%20Views&color=blue&style=flat" />
   </a>
 </p>
 
@@ -70,12 +70,12 @@
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=get-gud05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=get-gud05&layout=donut&theme=tokyonight&hide_border=true"
     height="180"
   />
 
@@ -86,7 +86,7 @@
 <p align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=get-gud05&theme=tokyo-night&hide_border=true"
     width="95%"
   />
 
