@@ -74,13 +74,16 @@
     height="180"
   />
 
+ <!--
   <img
     src="./profile/top-langs.svg"
     height="180"
   />
+  -->
 
 </p>
 
+<!--
 # 📈 Contribution Activity
 
 <p align="center">
@@ -93,6 +96,7 @@
 </p>
 
 ---
+-->
 
 # 💻 Competitive Programming
 
